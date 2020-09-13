@@ -1,0 +1,2 @@
+1. Data refresh happens on page refresh
+2. Route status is early if < 0, on time if >= 0 and <= 300, late if > 300
